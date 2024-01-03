@@ -5,4 +5,4 @@
 
 1. Combine:兩張圖片的結合
 2. Compression: 影像的壓縮、還原以及PSNR的計算
-3. 
+3. Overlay: 影像的覆蓋以及雜訊的去除
